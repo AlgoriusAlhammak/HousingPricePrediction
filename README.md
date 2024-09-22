@@ -13,6 +13,6 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/algorius/housing-price-prediction.git
-   cd housing-price-prediction
+   git clone https://github.com/AlgoriusAlhammak/HousingPricePrediction.git
+   cd HousingPricePrediction
 2. Open Jupyter Lab and run the notebooks
